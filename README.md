@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xincczn
-- 👀 I’m interested in A
-- 🌱 I’m currently learning B
-- 💞️ I’m looking to collaborate on C
-- 📫 How to reach me D
+# HI, I'm Xing ✨
+
+A 2nd year Computer Science student studying at UNSW.
+
+Feel free to look around!
 
 <!---
 xincczn/xincczn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
