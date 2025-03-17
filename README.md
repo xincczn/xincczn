@@ -1,6 +1,6 @@
 # HI, I'm Xing ✨
 
-A 3rd year Computer Science student studying at UNSW.
+A 4th year Computer Science/Commerce student studying at UNSW.
 
 Feel free to look around!
 
